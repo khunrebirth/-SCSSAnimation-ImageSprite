@@ -1,2 +1,2 @@
-# SCSSAnimation-ImageSprite
+# SCSS_Animation-ImageSprite
 
